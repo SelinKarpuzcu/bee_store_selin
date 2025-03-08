@@ -1,0 +1,93 @@
+{
+   "checksum": "abb74fe2b8cc29fccefbfd167cdce1df",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13313880004281928",
+            "date_last_used": "0",
+            "guid": "cdc15d54-7087-4a0d-bbe8-f018d47a430c",
+            "id": "7",
+            "name": "cvhazirlama.cool",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://cvhazirlama.cool/builder/cover-letters"
+         }, {
+            "date_added": "13313179297492329",
+            "date_last_used": "0",
+            "guid": "8e7dbb3b-9195-4f5b-bbf8-2ce85fabb055",
+            "id": "8",
+            "name": "C Programlama Ders  I",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://cagataycebi.com/programming/c_programming/c_programming_1.html"
+         }, {
+            "children": [ {
+               "date_added": "13344291685693057",
+               "date_last_used": "0",
+               "guid": "ce198c25-c9b7-4ef8-a851-bb8d50ecf634",
+               "id": "10",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "PC Game Pass | Xbox",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.xbox.com/tr-TR/xbox-game-pass/pc-game-pass?ocid=XGP_inp_rmc_xbo_spo_Bethesda_TestA-boost"
+            } ],
+            "date_added": "13315596561412698",
+            "date_last_used": "0",
+            "date_modified": "13344291685693057",
+            "guid": "ee9cdce8-4114-4267-9b91-bf5859661ae8",
+            "id": "9",
+            "name": "Sık Kullanılanlar Çubuğu",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13313179297476705",
+            "date_last_used": "13325450151470856",
+            "guid": "5ce6ead4-ccd1-49a5-8ffd-1e59d712f9f2",
+            "id": "11",
+            "name": "Bing",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://go.microsoft.com/fwlink/p/?LinkId=255142"
+         } ],
+         "date_added": "13350753563336896",
+         "date_last_used": "0",
+         "date_modified": "13313880004281928",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Sık kullanılanlar çubuğu",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13350753563336907",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Diğer sık kullanılanlar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13350753563336910",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobil sık kullanılanlar",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCMxRNkaNAQAAEgAgASoYdDIxOUpUVXdjM256bmRBbG1iREVnZz09oAYMEqgBCAkSowEKHGVvT3lzVVUwVExIRFpsaG80MlZTMkd6MFNtbz0SJGVlOWNkY2U4LTQxMTQtNDI2Ny05YjkxLWJmNTg1OTY2MWFlOBgAIAAoADCl6umnnDE44O/pp5wxQODv6aecMUocME1uL0hiT2lCTWZvZUZscjhla0NyMzZSbTJJPVofIh22Sy9YRG5KelBpZ3U0K0p0Y1IrYy9MVXdIYzE0PWUAAAAAEqgBCAsSowEKHGViTVJlckJHeDFSWURsZHVDL3hRalllL3FPST0SJDVjZTZlYWQ0LWNjZDEtNDlhNS04ZmZkLTFlNTlkNzEyZjlmMhgAIAIoAjDLo9mx1DE4su/pp5wxQJST2bHUMUocWjNHMjV5SHNSQ3d5WE1aVUd2c2VrcVhoU3FNPVofIh3beEJ2TmxoU1lHdk8ybGRqbkx3SmtMQlF1YnhrPWWxRIkIEqcBCAgSogEKHHZZK2NIRms2OUNpdUplSnlhTmM3eGhIdDB5ST0SJDhlN2RiYjNiLTkxOTUtNGY1Yi1iYmY4LTJjZTg1ZmFiYjA1NRgAIAAoADCk6umnnDE4yO/pp5wxQMjv6aecMUocRFFrYUxOc0NkRnJPZFZMV21UWlFManVKcEQwPVoeIhxsbmdXdHkyK0doV1BHTDc2QTJacWpzRThTaHc9ZQAAAAASiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkNGMzYTQzNDctZDA1Ny01ZjQ2LWJkNDMtODI3MzQ2ZTBiMDIzGAAgACgAMPy46aecMTiEvumnnDFAhL7pp5wxShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKnAQgKEqIBChxlV2p5eURLbTFZYUh6VXpTZ0lxVFo5MnhEM1U9EiRjZTE5OGMyNS1jOWI3LTRlZjgtYTg1MS1iYjhkNTBlY2Y2MzQYACAAKAAwl6C2qLwxOLSitqi8MUC0oraovDFKHDBRc21FaHd4eWZseHpacCs5MXZjWXJtOE11ST1aHiIcUUo1RFBvN1VlRkRpVnFUaXpPR21yYStDZGcwPWWGX3WqEokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJGUzYWQwNjcxLTU4ZTctNTFmMy1hZmI3LTNjYmFjODJmODUxMRgAIAAoADD9uOmnnDE4m77pp5wxQJu+6aecMUocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASpwEIBxKiAQocNlZYdzZGU05aUG83ejJ5V0tOeTBCYWRnK2drPRIkY2RjMTVkNTQtNzA4Ny00YTBkLWJiZTgtZjAxOGQ0N2E0MzBjGAAgACgAMKLq6aecMTid7+mnnDFAne/pp5wxShxtTXd0QitoWHJPcEJKbnZOUFZ2RG1DSzg1SDg9Wh4iHGQzT21qWWZaRThhMjZYdGJxQmdSdERwSGtodz1lAAAAABKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ2YTI1Y2NiMi03MGI4LTU3NDQtYjMxYi03ZDkwMmQyNWFiYzUYACAAKAAwgrnpp5wxONO+6aecMUDTvumnnDFKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAMAA4AA==",
+   "version": 1
+}

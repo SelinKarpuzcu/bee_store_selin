@@ -1,0 +1,80 @@
+{
+   "checksum": "0641378285f75dfc58d4a497c66c721d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13313880004281928",
+            "date_last_used": "0",
+            "guid": "cdc15d54-7087-4a0d-bbe8-f018d47a430c",
+            "id": "7",
+            "name": "cvhazirlama.cool",
+            "type": "url",
+            "url": "https://cvhazirlama.cool/builder/cover-letters"
+         }, {
+            "date_added": "13313179297492329",
+            "date_last_used": "0",
+            "guid": "8e7dbb3b-9195-4f5b-bbf8-2ce85fabb055",
+            "id": "8",
+            "name": "C Programlama Ders  I",
+            "type": "url",
+            "url": "https://cagataycebi.com/programming/c_programming/c_programming_1.html"
+         }, {
+            "children": [ {
+               "date_added": "13344291685693057",
+               "date_last_used": "0",
+               "guid": "ce198c25-c9b7-4ef8-a851-bb8d50ecf634",
+               "id": "10",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "PC Game Pass | Xbox",
+               "type": "url",
+               "url": "https://www.xbox.com/tr-TR/xbox-game-pass/pc-game-pass?ocid=XGP_inp_rmc_xbo_spo_Bethesda_TestA-boost"
+            } ],
+            "date_added": "13315596561412698",
+            "date_last_used": "0",
+            "date_modified": "13344291685693057",
+            "guid": "ee9cdce8-4114-4267-9b91-bf5859661ae8",
+            "id": "9",
+            "name": "Sık Kullanılanlar Çubuğu",
+            "type": "folder"
+         }, {
+            "date_added": "13313179297476705",
+            "date_last_used": "13325450151470856",
+            "guid": "5ce6ead4-ccd1-49a5-8ffd-1e59d712f9f2",
+            "id": "11",
+            "name": "Bing",
+            "type": "url",
+            "url": "http://go.microsoft.com/fwlink/p/?LinkId=255142"
+         } ],
+         "date_added": "13350753563336896",
+         "date_last_used": "0",
+         "date_modified": "13313880004281928",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Yer işaretleri çubuğu",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13350753563336907",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Diğer yer işaretleri",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13350753563336910",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobil yer işaretleri",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

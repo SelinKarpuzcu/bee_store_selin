@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830716909174",
+    "project_id": "beestore-selinkarpuzcu",
+    "storage_bucket": "beestore-selinkarpuzcu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830716909174:android:c8ce03bac550a7bf06b157",
+        "android_client_info": {
+          "package_name": "com.example.bee_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV8tO9TYjYjVHhThJm0nA7roLMJ4_GRKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
